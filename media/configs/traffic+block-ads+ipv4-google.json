@@ -81,8 +81,7 @@
         "type": "field",
         "outboundTag": "blocked",
         "domain": [
-          "geosite:category-ads-all",
-          "ext:iran.dat:ads"
+          "geosite:category-ads-all"
         ]
       },
       {
